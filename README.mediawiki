@@ -1,0 +1,25 @@
+<h2>KIPs</h2>
+Komodo/AtomicDEX Improvement Proposals
+
+Welcome to the KIPs repo!
+
+This repository serves as a platform to facilitate discussion, collaboration and the review of proposed changes to the Komodo Platform (technology stack). We believe that having an open and transparent process helps foster good governance and trust between the Komodo community and our development teams.
+Please read the KIP 0 below for further information and contribution guideline.
+We hope you find the KIP repository useful and that it helps to make Komodo a better platform. Thank you for your interest and support in our project.
+
+
+{| class="wikitable sortable" style="width: auto; text-align: center; font-size: smaller; table-layout: fixed;"
+!Number
+!Layer
+!Title
+!Owner
+!Type
+!Status
+|- style="background-color: #ffcfcf"
+| [[kip-0000.mediawiki|0]]
+|
+| KIP Purpose and Guidelines
+| Kadan Stadelmann
+| Process
+| Discussion
+|}
