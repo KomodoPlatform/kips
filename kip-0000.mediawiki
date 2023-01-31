@@ -1,0 +1,20 @@
+[WIP]
+<pre>
+  KIP: 0
+  Title: KIP Purpose and Guidelines
+  Author: Kadan Stadelmann <ca333@komodoplatform.com>
+  Comments-Summary: No comments yet.
+  Comments-URI: https://github.com/komodoplatform/kips/wiki/Comments:BIP-0000
+  Status: Discussion
+  Type: Process
+  Created: 2023-01-30
+  Superseded-By: 1
+</pre>
+
+
+
+
+Our general open source software contribution <a href=https://github.com/KomodoPlatform/komodo/blob/master/CONTRIBUTING.md>guidelines</a> apply whenever joining or opening improvement proposal discussions.
+This repository aims to provide a structured and organized process for discussing and proposing Komodo-and AtomicDEX related improvements. All KIPs should be open to public discussion and revision before they can be reviewed & accepted. Therefor we ask you to check the roadmaps and issue tickets in the relevant repositories such as <a href=https://github.com/komodoplatform/komodo/issues>komodo core</a> and <a href=https://github.com/komodoplatform/AtomicDEX-API/issues>AtomicDEX</a> prior to opening the relevant discussion in the Komodo KIPs discord channel. Furthermore please open a issue ticket in this repository as you confirm your proposal is not redundant / a duplicate.
+
+Please read and ensure you understood the <a href=https://github.com/KomodoPlatform/komodo/blob/master/code_of_conduct.md> Contributor Code of Conduct </a>. By participating in this project, you agree to abide by its terms.
