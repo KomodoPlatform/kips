@@ -4,14 +4,12 @@
   Title: KIP Purpose and Guidelines
   Author: Kadan Stadelmann <ca333@komodoplatform.com>
   Comments-Summary: No comments yet.
-  Comments-URI: https://github.com/komodoplatform/kips/wiki/Comments:BIP-0000
+  Comments-URI: https://github.com/komodoplatform/kips/wiki/Comments:KIP-0000
   Status: Discussion
   Type: Process
   Created: 2023-01-30
   Superseded-By: 1
 </pre>
-
-
 
 
 Our general open source software contribution <a href=https://github.com/KomodoPlatform/komodo/blob/master/CONTRIBUTING.md>guidelines</a> apply whenever joining or opening improvement proposal discussions.
