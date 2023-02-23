@@ -1,6 +1,6 @@
 <pre>
   KIP: 1
-  Title: Changes to Active User Rewards
+  Title: Change Active User Rewards
   Author: smk <smk@komodoplatform.com>
   Comments-Summary: No comments yet.
   Comments-URI: https://github.com/komodoplatform/kips/wiki/Comments:KIP-0001
@@ -30,9 +30,13 @@ This change will be decided by a community poll to be held in March 2023, using 
 
 There will be a snapshot on March 3rd, and KIP0001 tokens will be airdropped on March 6th. The poll will end on March 20th. 
 
-For Option 1 (Yes), send your KIP0001 tokens to: `RG3ZbRGyeUjSrJ2NUSqjXxeX1a6UB43bBo`
+### Poll Options
+ - `Yes`: Reduce the active user reward amount to 0.01% APR in order to decrease the KMD total supply over time.
+ - `No`: Keep the active user reward amount at 5% APR.
 
-For Option 2 (No), send your KIP0001 tokens to: `RPxCpK4fKakagFqg58gbZpmcenwb9J2mZb`
+To vote `Yes`, send your KIP0001 tokens to: `RG3ZbRGyeUjSrJ2NUSqjXxeX1a6UB43bBo`
+
+To vote `No`, send your KIP0001 tokens to: `RPxCpK4fKakagFqg58gbZpmcenwb9J2mZb`
 
 If KIP-0001 is passed, these changes will take effect at the beginning of the next Notary Node season around June 2023.
 
