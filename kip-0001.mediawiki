@@ -1,6 +1,6 @@
 = KIP-0001: Change AUR =
 
-```
+
   KIP: 1
   Title: Change Active User Rewards
   Author: smk <smk@komodoplatform.com>
@@ -9,11 +9,11 @@
   Status: Proposed
   Type: Standards Track
   Created: 2023-02-24
-```
+
 
 == Abstract ==
 
-The [Komodo Active User Reward](https://forum.komodoplatform.com/t/komodo-5-active-user-reward-all-you-need-to-know/435) (AUR) is currently set to accrue at a 5% APR rate for any UTXO older than one hour, larger than 10 KMD, which has nlocktime set. The AUR is set to stop accruing when a UTXO is a month old. KIP-0001 proposes a reduction of the AUR to 0.01%.
+The [https://forum.komodoplatform.com/t/komodo-5-active-user-reward-all-you-need-to-know/435 Komodo Active User Reward] (AUR) is currently set to accrue at a 5% APR rate for any UTXO older than one hour, larger than 10 KMD, which has nlocktime set. The AUR is set to stop accruing when a UTXO is a month old. KIP-0001 proposes a reduction of the AUR to 0.01%.
 
 == Motivation ==
 
