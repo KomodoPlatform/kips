@@ -36,9 +36,9 @@ There will be a snapshot on March 3rd, and KIP0001 tokens will be airdropped on 
  Yes: Reduce the active user reward amount to 0.01% APR in order to decrease the KMD total supply over time.
  No: Keep the active user reward amount at 5% APR.
 
-To vote '''Yes''', send your KIP0001 tokens to: '''RG3ZbRGyeUjSrJ2NUSqjXxeX1a6UB43bBo'''
+To vote '''Yes''', send your KIP0001 tokens to: '''RReduceRewardsXXXXXXXXXXXXXXUxPxuC'''
 
-To vote '''No''', send your KIP0001 tokens to: '''RPxCpK4fKakagFqg58gbZpmcenwb9J2mZb'''
+To vote '''No''', send your KIP0001 tokens to: '''RKeepRewardsXXXXXXXXXXXXXXXXYKRSuF'''
 
 If KIP-0001 is passed, these changes will take effect at the beginning of the next Notary Node season around June 2023.
 
