@@ -1,0 +1,47 @@
+= KIP-0001: Change AUR =
+
+
+  KIP: 1
+  Title: Change Active User Rewards
+  Author: smk <smk@komodoplatform.com>
+  Comments-Summary: No comments yet.
+  Comments-URI: https://github.com/komodoplatform/kips/wiki/Comments:KIP-0001
+  Status: Proposed
+  Type: Standards Track
+  Created: 2023-02-24
+
+
+== Abstract ==
+
+The [https://forum.komodoplatform.com/t/komodo-5-active-user-reward-all-you-need-to-know/435 Komodo Active User Reward] (AUR) is currently set to accrue at a 5% APR rate for any UTXO older than one hour, larger than 10 KMD, which has nlocktime set. The AUR is set to stop accruing when a UTXO is a month old. KIP-0001 proposes a reduction of the AUR to 0.01%.
+
+== Motivation ==
+
+AUR currently makes up a majority of the KMD supply inflation, more than twice compared to ordinary Proof of Work mining.
+
+A reduction to AUR is necessary to ensure that the KMD supply will have a significantly lower annual inflation rate.
+
+For users looking to earn yield on KMD holdings, there are existing alternatives to AUR. For example, some platforms offer options to lock KMD and earn yield. Although most are custodial products, they provide one major benefit. While yield is paid in KMD, it doesn’t come from newly created KMD. Therefore, it doesn’t lead to inflation.
+
+The motivation behind this vote is to 1) Give the Komodo community an opportunity to be a part of an important project decision. 2) Set Komodo on a track that can lead to future success for KMD.
+
+
+== Body ==
+
+This change will be decided by a community poll to be held in March 2023, using on chain voting. 
+
+There will be a snapshot on March 3rd, and KIP0001 tokens will be airdropped on March 6th. The poll will end on March 20th. 
+
+==== Poll Options ====
+ Yes: Reduce the active user reward amount to 0.01% APR in order to decrease the KMD total supply over time.
+ No: Keep the active user reward amount at 5% APR.
+
+To vote '''Yes''', send your KIP0001 tokens to: '''RReduceRewardsXXXXXXXXXXXXXXUxPxuC'''
+
+To vote '''No''', send your KIP0001 tokens to: '''RKeepRewardsXXXXXXXXXXXXXXXXYKRSuF'''
+
+If KIP-0001 is passed, these changes will take effect at the beginning of the next Notary Node season around June 2023.
+
+== References ==
+
+Links to related announcements will be added here when available.
