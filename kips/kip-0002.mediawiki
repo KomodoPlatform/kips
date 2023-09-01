@@ -1,0 +1,26 @@
+= KIP-0002 : RESERVED =
+
+```
+Number:  2
+Title:   Komodo future changes
+Type:    Informational
+Status:  Pending
+Authors: 
+Created: 
+```
+
+== Abstract ==
+
+This is a section for an abstract.
+
+== Motivation ==
+
+This is a section for a motivation.
+
+== Body ==
+
+This is a section for a body. The title of the section should be changed and the section can be split into multiple sections and subsections.
+
+== References ==
+
+This is a section for references such as links to other documents or to reference implementations.
