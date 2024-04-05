@@ -1,4 +1,4 @@
-= KIP-0002 : RESERVED =
+= KIP-0002 : KMD Block Reward Reduction =
 
 ```
 Number:  2
@@ -11,7 +11,8 @@ Created:
 
 == Abstract ==
 
-This is a section for an abstract.
+In April/May 2024, Komodo will hold a community-wide vote to determine whether or not to implement a proposed change to the KMD block reward.
+The main objective of this proposed change is to upgrade KMD tokenomics by making the supply issuance more deflationary.
 
 == Motivation ==
 
