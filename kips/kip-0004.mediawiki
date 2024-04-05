@@ -1,1 +1,50 @@
+= KIP-0004: Consensus Change =
 
+
+  KIP: 4
+  Title: Consensus Change
+  Author: polycryptoblog <jason@komodoplatform.com>
+  Comments-Summary: No comments yet.
+  Comments-URI: https://github.com/komodoplatform/kips/wiki/Comments:KIP-0004
+  Status: Proposed
+  Type: Standards Track
+  Created: 2024-04-5
+
+== Abstract ==
+
+Komodo will hold a community-wide vote to determine whether or not to implement a proposed change to KMD consensus mechanism. The proposal brings up for vote the change of consensus to a Proof of Stake style consensus mechanism with or without a Masternode style nodal reward. 
+
+The main objective of this proposed change is to upgrade KMD tokenomics by encouraging utilization of KMD currency among more participants and to allow more users to partipate in network consensus.  
+
+== Motivation ==
+
+The motivation behind this proposal is inspired by the holding mechanism found in many cryptocurrencies which temporarily restricts available supply to perform network actions as well as further decentralize the network by opening up consensus to a wider group of particpants.  The nature of these effects disseminates coin emissions among a larger pool of users at a lower energy cost than traditional PoW; while restricting emission to only the block subsidy, unlike the previous AUR found in KMD.  Options, if selected by the community,  that are would further increase emissions beyond the subsidy would require participation in the network consensus.   
+
+
+== Body ==
+
+This change will be decided by a community poll to be held in May 2024, using on chain voting.
+
+There will be a snapshot on April 18th, and KIP0004 tokens will be airdropped on [DATE TBD]. The poll will end on May 3rd.
+
+Poll Options
+The options for the Poll are :
+1: No change - No change to consensus mechanism ; remains Proof of Work
+2: PoS - Change to Proof of Stake system
+3: PoS+Masternode Change to Proof of Stake system with Masternodes; Masternodes will receive 50% of Block Subsidy
+4: "Gridcoin-style" PoS - Change to Gridcoin-style PoS system which will allow users to be rewarded for work on certain BOINC projects upon staking a block.
+5: "Gridcoin-style" PoS + Masternodes - Change to Gridcoin-style PoS system which will allow users to be rewarded for work on certain BOINC projects upon staking a block,  Masternodes will receive 50% of the block subsidy.  
+
+To vote for Option 1 (No change to consensus mechanism), send your KIP0004 tokens to [ ADDRESS TBD ]
+To vote for Option 2 ( Proof of Stake ), send your KIP0004 tokens to [ ADDRESS TBD ]
+To vote for Option 3 ( Proof of Stake + Masternodes ), send your KIP0004 tokens to [ ADDRESS TBD ]
+To vote for Option 4 ( “Gridcoin-style Proof of Stake” ), send your KIP0004 tokens to [ ADDRESS TBD ]
+To vote for Option 5 ( “Gridcoin-style Proof of Stake” + Masternodes ), send your KIP0004 tokens to [ ADDRESS TBD ]
+
+
+If KIP-0004 is passed, these changes will take effect in the 2025/2026 Notary Node Season.
+
+
+== References ==
+
+Links to related announcements will be added here when available.
