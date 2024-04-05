@@ -1,1 +1,45 @@
+= KIP-0003: KMD Transaction Fee Increase and Burn =
 
+
+  KIP: 3
+  Title: KMD Transaction Fee Increase and Burn
+  Author: polycryptoblog <jason@komodoplatform.com>
+  Comments-Summary: No comments yet.
+  Comments-URI: https://github.com/komodoplatform/kips/wiki/Comments:KIP-0003
+  Status: Proposed
+  Type: Standards Track
+  Created: 2024-04-5
+
+== Abstract ==
+
+Komodo will hold a community-wide vote to determine whether or not to implement a proposed change to KMD transaction fee structure. The proposal brings up for vote the increase of transaction fees between 10x to 100x and burning the fees. 
+
+The main objective of this proposed change is to upgrade KMD tokenomics by creating a deflationary effect through the burning of transaction fees.  The secondary objective of this proposal is to further increase the cost to conduct spam attacks on the blockchain
+
+== Motivation ==
+
+The motivation behind this proposal is inspired by the deflationary mechanism found in Ethereum and other cryptocurrencies which burn transaction fees to offset in part or whole the coin emission of the chain.  Additionally this proposal is inspired by the reality of spam transactions and the neccessity of increasing cost to perform them.    
+
+== Body ==
+
+This change will be decided by a community poll to be held in May 2024, using on chain voting.
+
+There will be a snapshot on April 18th, and KIP0003 tokens will be airdropped on [DATE TBD]. The poll will end on May 3rd.
+
+Poll Options
+ No Change: No change to the transaction fees 
+ 10x + Burn : Increase the transaction fees by 10x and burn them
+ 100x + Burn : Increase the transaction fees by 100x and burn them
+
+To vote No Change , send your KIP0003 tokens to: [ ADDRESS TBD ]
+
+To vote 10x increase + Burn , send your KIP0003 tokens to: [ ADDRESS TBD ]
+
+To vote 100x increase + Burn , send your KIP0003 tokens to: [ ADDRESS TBD ]
+
+If KIP-0003 is passed, these changes will take effect at the beginning of the next Notary Node season in summer of 2024.
+
+
+== References ==
+
+Links to related announcements will be added here when available.
