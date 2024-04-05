@@ -29,7 +29,7 @@ There will be a snapshot on April 18th, and KIP0004 tokens will be airdropped on
 
 == Poll Options ==
 
-= The options for the Poll are : =
+ The options for the Poll are : 
 
 1: No change - No change to consensus mechanism ; remains Proof of Work
 
