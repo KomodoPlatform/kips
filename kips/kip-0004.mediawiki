@@ -46,6 +46,7 @@ The options for the Poll are :
 
 
 
+
 To vote for Option 1 (No change to consensus mechanism), send your KIP0004 tokens to [ ADDRESS TBD ]
 
 To vote for Option 2 ( Proof of Stake ), send your KIP0004 tokens to [ ADDRESS TBD ]
