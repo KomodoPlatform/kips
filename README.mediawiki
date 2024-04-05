@@ -31,9 +31,12 @@ We hope you find the KIP repository useful and that it helps to make Komodo a be
 | Final
 |-
 | [[kips/kip-0002.mediawiki|2]]
+| Protocol
+| Reduce Block Subsidy
+| poly
+| Standards Track
+| Final
 |
-| -
-| -
-| -
+|
 | Reserved
 |}
