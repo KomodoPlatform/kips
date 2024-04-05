@@ -44,4 +44,4 @@ If KIP-0001 is passed, these changes will take effect at the beginning of the ne
 
 == References ==
 
-Links to related announcements will be added here when available.
+https://forum.komodoplatform.com/t/komodo-active-user-reward-all-you-need-to-know/435
