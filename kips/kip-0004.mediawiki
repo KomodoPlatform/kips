@@ -30,16 +30,11 @@ There will be a snapshot on April 18th, and KIP0004 tokens will be airdropped on
 == Poll Options ==
 
  The options for the Poll are : 
-
-1: No change - No change to consensus mechanism ; remains Proof of Work
-
-2: PoS - Change to Proof of Stake system
-
-3: PoS+Masternode Change to Proof of Stake system with Masternodes; Masternodes will receive 50% of Block Subsidy
-
-4: "Gridcoin-style" PoS - Change to Gridcoin-style PoS system which will allow users to be rewarded for work on certain BOINC projects upon staking a block.
-
-5: "Gridcoin-style" PoS + Masternodes - Change to Gridcoin-style PoS system which will allow users to be rewarded for work on certain BOINC projects upon staking a block,  Masternodes will receive 50% of the block subsidy.  
+  1: No change - No change to consensus mechanism ; remains Proof of Work
+  2: PoS - Change to Proof of Stake system
+  3: PoS+Masternode Change to Proof of Stake system with Masternodes; Masternodes will receive 50% of Block Subsidy
+  4: "Gridcoin-style" PoS - Change to Gridcoin-style PoS system which will allow users to be rewarded for work on certain BOINC projects upon staking a block.
+  5: "Gridcoin-style" PoS + Masternodes - Change to Gridcoin-style PoS system which will allow users to be rewarded for work on certain BOINC projects upon staking a block,  Masternodes will receive 50% of the block subsidy.  
 
 
 
