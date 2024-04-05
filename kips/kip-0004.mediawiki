@@ -42,6 +42,10 @@ The options for the Poll are :
 5: "Gridcoin-style" PoS + Masternodes - Change to Gridcoin-style PoS system which will allow users to be rewarded for work on certain BOINC projects upon staking a block,  Masternodes will receive 50% of the block subsidy.  
 
 
+
+
+
+
 To vote for Option 1 (No change to consensus mechanism), send your KIP0004 tokens to [ ADDRESS TBD ]
 
 To vote for Option 2 ( Proof of Stake ), send your KIP0004 tokens to [ ADDRESS TBD ]
