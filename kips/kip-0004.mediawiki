@@ -27,9 +27,9 @@ This change will be decided by a community poll to be held in May 2024, using on
 
 There will be a snapshot on April 18th, and KIP0004 tokens will be airdropped on [DATE TBD]. The poll will end on May 3rd.
 
-Poll Options
+== Poll Options ==
 
-The options for the Poll are :
+= The options for the Poll are : =
 
 1: No change - No change to consensus mechanism ; remains Proof of Work
 
