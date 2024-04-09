@@ -42,15 +42,15 @@ There will be a snapshot on April 18th, and KIP0004 tokens will be airdropped on
 
 
 
-To vote for Option 1 (No change to consensus mechanism), send your KIP0004 tokens to [ ADDRESS TBD ]
+To vote for Option 1 (No change to consensus mechanism), send your KIP0004 tokens to RNoChangeXXXXXXXXXXXXXXXXXXXYRvSwz
 
-To vote for Option 2 ( Proof of Stake ), send your KIP0004 tokens to [ ADDRESS TBD ]
+To vote for Option 2 ( Proof of Stake ), send your KIP0004 tokens to RStakeXXXXXXXXXXXXXXXXXXXXXXWvVS8u
 
-To vote for Option 3 ( Proof of Stake + Masternodes ), send your KIP0004 tokens to [ ADDRESS TBD ]
+To vote for Option 3 ( Proof of Stake + Masternodes ), send your KIP0004 tokens to RMNStakeXXXXXXXXXXXXXXXXXXXXVWUPDF
 
-To vote for Option 4 ( “Gridcoin-style Proof of Stake” ), send your KIP0004 tokens to [ ADDRESS TBD ]
+To vote for Option 4 ( “Gridcoin-style Proof of Stake” ), send your KIP0004 tokens to RGridXXXXXXXXXXXXXXXXXXXXXXXQyajqY
 
-To vote for Option 5 ( “Gridcoin-style Proof of Stake” + Masternodes ), send your KIP0004 tokens to [ ADDRESS TBD ]
+To vote for Option 5 ( “Gridcoin-style Proof of Stake” + Masternodes ), send your KIP0004 tokens to RMNGridXXXXXXXXXXXXXXXXXXXXXpyzf3Z
 
 
 If KIP-0004 is passed, these changes will take effect in the 2025/2026 Notary Node Season.
