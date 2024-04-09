@@ -25,7 +25,7 @@ Following the AUR, the other main source of KMD coin emission is the block subsi
 
 This change will be decided by a community poll to be held in May 2024, using on chain voting.
 
-There will be a snapshot on April 18th, and KIP0002 tokens will be airdropped on [DATE]. The poll will end on May 3rd.
+There will be a snapshot on April 18th at an unspecified time with snapshot block announced post-airdrop for verification, KIP0002 tokens will be airdropped between April 19-21 and will be dropped in batches. The poll will end on May 3rd.
 
 Poll Options
  Yes: Reduce the block subsidy to 1 KMD 
