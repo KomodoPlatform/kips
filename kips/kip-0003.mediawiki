@@ -32,6 +32,7 @@ Poll Options
  100x + Burn : Increase the transaction fees by 100x and burn them
  10x + No Burn :  Increase transaction fees by 10x without burning
  100x + No Burn : Increase transaction fees by 100x without burning
+ Burn without Increase : Do not increase transaction fees; instead just burn existing fees
 
 To vote No Change , send your KIP0003 tokens to: RNoChangeXXXXXXXXXXXXXXXXXXXYRvSwz
 
@@ -41,7 +42,9 @@ To vote 100x increase + Burn , send your KIP0003 tokens to: RBurnHundredXFeeXXXX
 
 To vote 10x increase without Burn send your KIP0003 tokens to : RNoBurnTenXFeeXXXXXXXXXXXXXX1PMoXA
 
-To vote 10x increase without Burn send your KIP0003 tokens to : RNoBurnHundredXFeeXXXXXXXXXXiG5upG
+To vote 100x increase without Burn send your KIP0003 tokens to : RNoBurnHundredXFeeXXXXXXXXXXiG5upG
+
+To vote for Burn without Increase send your KIP0003 tokens to : RBurn1XFeeXXXXXXXXXXXXXXXXXXrbe6NL
 
 If KIP-0003 is passed, these changes will take effect at the beginning of the next Notary Node season in summer of 2024.
 
