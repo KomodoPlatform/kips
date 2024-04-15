@@ -1,26 +1,43 @@
-= KIP-0002 : RESERVED =
 
-```
-Number:  2
-Title:   Komodo future changes
-Type:    Informational
-Status:  Pending
-Authors: 
-Created: 
-```
+= KIP-0002: KMD Block Reward Reduction =
+
+
+  KIP: 2
+  Title: KMD Block Reward Reduction
+  Author: polycryptoblog <jason@komodoplatform.com>
+  Comments-Summary: No comments yet.
+  Comments-URI: https://github.com/komodoplatform/kips/wiki/Comments:KIP-0002
+  Status: Proposed
+  Type: Standards Track
+  Created: 2024-04-5
 
 == Abstract ==
 
-This is a section for an abstract.
+Komodo will hold a community-wide vote to determine whether or not to implement a proposed change to the KMD block reward. The proposal brings up for vote the reduction of the block subsidy to 1 KMD per block. 
+
+The main objective of this proposed change is to upgrade KMD tokenomics by restricting coin emissions.
 
 == Motivation ==
 
-This is a section for a motivation.
+Following the AUR, the other main source of KMD coin emission is the block subsidy which issues approximately 1.6 million KMD coins a year.  Reducing the block subsidy to 1 KMD per block will reduce the yearly coin emissions to approximately 526000 KMD per year.  This reduces market sell pressure of coins and allows previously created coins to increase in cost basis over time.    
 
 == Body ==
 
-This is a section for a body. The title of the section should be changed and the section can be split into multiple sections and subsections.
+This change will be decided by a community poll to be held in May 2024, using on chain voting.
+
+There will be a snapshot on April 18th at an unspecified time with snapshot block announced post-airdrop for verification, KIP0002 tokens will be airdropped between April 19-21 and will be dropped in batches. The poll will end on May 3rd.
+
+Poll Options
+ Yes: Reduce the block subsidy to 1 KMD 
+ No: Keep the block subsidy at 3 KMD.
+
+To vote Yes, send your KIP0002 tokens to: RReduceB1ockRewardXXXXXXXXXXEsozaY
+
+To vote No, send your KIP0002 tokens to: RNoChangeXXXXXXXXXXXXXXXXXXXYRvSwz
+
+If KIP-0002 is passed, these changes will take effect at the beginning of the next Notary Node season in summer of 2024, additionally if KIP0002 passes,  Notary Nodes will receive a 200$ a month subsidy to compensate for the reduced block reward.   This subsidy will last until KMD reaches $1.50, monthly average  where it will be reduced by 50%. At a $3 monthly average KMD price the subsidy will be removed entirely.
+
 
 == References ==
 
-This is a section for references such as links to other documents or to reference implementations.
+Links to related announcements will be added here when available.
