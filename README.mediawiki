@@ -16,10 +16,40 @@ We hope you find the KIP repository useful and that it helps to make Komodo a be
 !Type
 !Status
 |- style="background-color: #ffcfcf"
-| [[kip-0000.mediawiki|0]]
+| [[kips/kip-0000.mediawiki|0]]
 |
 | KIP Purpose and Guidelines
 | Kadan Stadelmann
 | Process
-| Discussion
+| Active
+|-
+| [[kips/kip-0001.mediawiki|1]]
+| Protocol
+| Change AUR
+| smk
+| Standards Track
+| Final
+|-
+| [[kips/kip-0002.mediawiki|2]]
+| Protocol
+| Reduce Block Subsidy
+| poly
+| Standards Track
+| Active
+|-
+| [[kips/kip-0003.mediawiki|3]]
+| Protocol
+| TX Fee Increase and Burn
+| poly
+| Standards Track
+| Active
+|-
+| [[kips/kip-0004.mediawiki|4]]
+| Protocol
+| Consensus Change
+| poly
+| Standards Track
+| Active
+|-
+| Reserved
 |}
