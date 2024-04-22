@@ -16,3 +16,45 @@ Our general open source software contribution <a href=https://github.com/KomodoP
 This repository aims to provide a structured and organized process for discussing and proposing Komodo-and AtomicDEX related improvements. All KIPs should be open to public discussion and revision before they can be reviewed & accepted. Therefor we ask you to check the roadmaps and issue tickets in the relevant repositories such as <a href=https://github.com/komodoplatform/komodo/issues>komodo core</a> and <a href=https://github.com/komodoplatform/AtomicDEX-API/issues>AtomicDEX</a> prior to opening the relevant discussion in the Komodo KIPs discord channel. Furthermore please open a issue ticket in this repository as you confirm your proposal is not redundant / a duplicate.
 
 Please read and ensure you understood the <a href=https://github.com/KomodoPlatform/komodo/blob/master/code_of_conduct.md> Contributor Code of Conduct </a>. By participating in this project, you agree to abide by its terms.
+
+
+=== KIP Vote guidelines ===
+
+The standard schedule for the KIP voting process once a submission is approved is as follows:
+
+* Poll dates and details are announced in Discord, blogs, newsletter and social media.
+* Snapshot is done no less than 1 week after the announcements, and Airdrop is processed.
+* Poll completes no less than 2 weeks after the airdrop.
+* Poll results are validated and announced within 1 week of the completion of the poll.
+
+
+Ideally KIPs should be presented with only 2 options. In cases where 3 or more options are presented, a proposal will be considered successful if it has the highest vote count, and also attracts a percentage of votes greater than the values in the table below:
+
+{| class="wikitable" style="margin:auto"
+! Options !! Percentage
+|-
+| 2 || 50.0001%
+|-
+| 3 || 42%
+|-
+| 4 || 36%
+|-
+| 5+ || 33%
+|}
+
+
+If no option reaches the threshold, a "run-off" vote will be scheduled. Run-off polls will have a shorter voting period, and reduced number of options.
+
+* Run-off polls will be scheduled as soon as possible following an "undecided" outcome.
+* The "run-off" will exclude the option which recieved the lowest number of votes and any option which attracted < 5% of the vote in the previous poll.
+* There shall be a minimum of 1 week between the announcement of a "run-off" vote and its snapshot/airdrop.
+* Run-off polls will complete 1 week after their airdrop.
+* The chain name for Run off polls will be in the format `KIPXXXXR` (where XXXX matches the number for the original poll).
+* If a second run off poll is required, the format `KIPXXXXR2` will be used.
+* If after the second run-off poll the result is still "undecided", the proposal will be rejected.
+* After 6 months, rejected polls may be resubmitted for approval at the discretion of the Komodo Platform team.
+
+
+
+
+
